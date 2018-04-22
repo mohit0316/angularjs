@@ -6,4 +6,5 @@
 * Tip percentage selection enabled via a modern mobile friendly slider control
 * Offers detailed results
 
-
+**Live Demo**
+https://embed.plnkr.co/GJ3lkw/
