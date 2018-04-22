@@ -1,0 +1,53 @@
+/* Styles go here */
+
+body {
+  font-family: sans-serif, Helvetica, Times;
+}
+
+.wrapper {
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 54px;
+  color: orange;
+}
+
+.description {
+  color: #696969;
+  font-size: 60px;
+}
+
+.light-font {
+  color: #afafaf;
+}
+
+.required-field {
+  color: red;
+}
+
+rzslider .rz-pointer {
+  background-color: orange;
+  border-radius: 20px;
+}
+
+.tipResults {
+  margin: 0;
+}
+
+.tipResults h4 {
+  color: #353535;
+}
+
+.help-block {
+  color: red;
+}
+
+.title-well {
+  background: #353535;
+  padding: 0 0 20px 0;
+  margin: 0 0 20px 0;
+}
