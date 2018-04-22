@@ -1,3 +1,8 @@
-# angularjs-samples
-This repository will consist of AngularJS related client applications to address some common real-life scenarios.
+# angularjs-tip-calculator (ezTip)
+
+Single page application (SPA) eliminating the need to send requests to server on page change   
+Live update results in the webpage with changing input values   
+Tip percentage selection enabled via a modern mobile friendly slider control
+Provides detailed results
+
 
