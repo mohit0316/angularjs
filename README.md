@@ -17,3 +17,6 @@ defined tip percentage. It also calculates the bill amount per person if the bil
 ### Developer Dependencies
 1. angularjs-slider v2.9.0 
 2. ui-router v0.2.18
+
+# Live Demo
+https://embed.plnkr.co/GJ3lkw/
